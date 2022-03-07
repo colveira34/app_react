@@ -1,4 +1,4 @@
-<h1>Nombre y apellido del responsable del proyecto: Charles Olveira</h1>
+<h4>Nombre y apellido del responsable del proyecto: Charles Olveira</h4>
 Tecnologías utilizadas: React, react-router-dom (versión 6), HTML5, CSS3.
 
 Objetivo del proyecto: Este proyecto lo desarrolle con el objetivo de aplicar lo aprendido durante la curzada y por otro, en lo personal, queria sumar mas conocimientos.
