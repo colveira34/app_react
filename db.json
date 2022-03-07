@@ -1,0 +1,41 @@
+{
+  "Productos": [
+    {"id": 1,
+    "name": "DELL",
+    "Price": 80000,
+    "Description": "Esto es una DELL",
+    "Img": "https://cdn.shopify.com/s/files/1/2283/5833/products/be5f8f8b199fec335a44fcb32dd45baf3dce815f_71dbd3fb-7a4a-45dc-a8aa-9130afaa196a_1024x1024@2x.jpg?v=1637354654%20%20alt=%22Notebook%20Dell%20Vostro%203401%20Core%20I3%208gb%201TB%20240ssd%20Windows%20Home%2010%20|%20Oportutek%20|%20VOS3401-MP9FD-M2240-4GB%22",
+     "stock": 100
+    },
+    {"id": 2,
+        "name": "ASUS",
+        "Price": 100000,
+        "Description": "Este equipo es una ASUS",
+        "Img": "http://medias.musimundo.com/medias/00423027-177300-177300-01.png-177300-01.png-size515?context=bWFzdGVyfGltYWdlc3wzMjA4ODN8aW1hZ2UvcG5nfGg4Ny9oZWYvMTAzMjYwNDEyOTY5MjYvMDA0MjMwMjctMTc3MzAwLTE3NzMwMF8wMS5wbmctMTc3MzAwXzAxLnBuZ19zaXplNTE1fDA3NTIxZWMyZTczYjY3MGQ4NzM3MzM0OWNmODhkMzIzOTBmMmQ5ZTg5MzgxMTg1MTM4OGJmNDM3YWY2ODc1Njc",
+         "stock": 100
+    },
+
+    {"id": 3,
+      "name": "SAMSUNG",
+      "Price": 100000,
+      "Description": "Este equipo de Samsung",
+      "Img": "https://images.samsung.com/is/image/samsung/ar_NP300E4A-AE2AR_201_Front?$624_624_PNG$",
+       "stock": 100
+     },
+     {"id": 4,
+      "name": "HP",
+      "Price": 150000,
+      "Description": "Este es un equipo de HP",
+      "Img": "https://ar-media.hptiendaenlinea.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/2/B/2B0F2LA-1_T1626269191.png",
+       "stock": 100
+     },
+
+     {"id": 5,
+      "name": "HP",
+      "Price": 150000,
+      "Description": "Este es otro equipo de HP",
+      "Img": "https://ar-media.hptiendaenlinea.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/3/Y/3Y595LA-1_T1643319827.png",
+       "stock": 100
+     }
+  ]
+}
